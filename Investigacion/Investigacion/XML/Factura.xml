@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factura>
+  <Facturacion>
+    <Nombre>David-</Nombre>
+    <Telefono>62025123-</Telefono>
+    <Direccion>San Antonio-</Direccion>
+    <Producto>Cacao-</Producto>
+    <Costo>500-</Costo>
+  </Facturacion>
+</Factura>
